@@ -21,13 +21,13 @@ desired database name, and port.
 4. Update the database credentials in the `PostgresSQLJDBCConnection.java` file to match your PostgreSQL database
 configuration. This can be found in Main, under url, username and password.
 5. Build the project using Maven and input the following dependency into pom.xml
-
+```
 <dependency>
     <groupId>org.postgresql</groupId>
     <artifactId>postgresql</artifactId>
     <version>42.7.3</version>
 </dependency>
-
+```
 ## Usage
 
 - Run the `PostgresSQLJDBCConnection.java` file to connect to the PostgreSQL database and perform CRUD operations.
