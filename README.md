@@ -10,7 +10,7 @@ connects to this database to perform specific CRUD (Create, Read, Update, Delete
 
 - IDE capable of Java and Maven
 - PostgreSQL database server
-- Java Database Connectivity driver for PostgreSQL (included in the Maven dependencies)
+- Java Database Connectivity driver for PostgreSQL: https://jdbc.postgresql.org/download/
 
 ## Setup
 
