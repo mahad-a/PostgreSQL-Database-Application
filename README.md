@@ -1,6 +1,4 @@
-COMP 3005 Assignment 3 Question 1 README
-Mahad Ahmed - mahadahmed3@cmail.carleton.ca
-101220427
+# PostgreSQL Database Application
 
 ## Description
 Implement a PostgreSQL database using the provided schema and write an application in your language of choice that
